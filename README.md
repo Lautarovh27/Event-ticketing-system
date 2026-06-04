@@ -34,7 +34,6 @@ Client
 ```
 
 
-Abrí el proyecto en **Eclipse** o **IntelliJ IDEA** y ejecutá la clase principal.
 
 ## Autores
 
