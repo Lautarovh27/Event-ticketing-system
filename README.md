@@ -38,7 +38,9 @@ Abrí el proyecto en **Eclipse** o **IntelliJ IDEA** y ejecutá la clase princip
 
 ## Autores
 
-**Ezequiel**
+**Ezequiel** — Desarrollador Java
 
-**Lautaro** — Desarrollador Java Junior  
+
+**Lautaro** — Desarrollador Java 
+
 📎 [GitHub](https://github.com/Lautarovh27) · [LinkedIn](https://www.linkedin.com/in/lautaro-van-hoorenbeeck/)
