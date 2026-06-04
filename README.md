@@ -36,8 +36,9 @@ Client
 
 Abrí el proyecto en **Eclipse** o **IntelliJ IDEA** y ejecutá la clase principal.
 
-## Autor
+## Autores
 
 **Ezequiel**
+
 **Lautaro** — Desarrollador Java Junior  
 📎 [GitHub](https://github.com/Lautarovh27) · [LinkedIn](https://www.linkedin.com/in/lautaro-van-hoorenbeeck/)
